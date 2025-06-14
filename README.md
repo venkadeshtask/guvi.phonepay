@@ -1,7 +1,7 @@
 # PhonePe-Pulse-Data-Analysis
 I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python 
 
-Link for web app is : https://tulasinn-phonepe-pulse-data-2018-2022-phonepe-dashboard-2drsrt.streamlit.app/
+Link for web app is : https://tulasinnd-phonepe-pulse-data-2018-2022-phonepe-dashboard-2drsrt.streamlit.app/
 
 THE MAIN COMPONENTS OF DASHBOARD ARE
 
